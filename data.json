@@ -104,19 +104,19 @@
         "version": "141.0.3493.0"
     },
     "msedge-canary-win-x64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_141.0.3493.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/11650a95-38ea-4fbc-b88f-75a587bc3f92?P1=1755558813&P2=404&P3=2&P4=PRyoGEe15hGN5u7qZ9QIZUd%2b9Uq9CK5SjHSt5iUzXlcN9yw0Hk6oNVbcudj4MWVo2R6Y6ZFb95FdjZiH9ArwVw%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 185958992,
-        "Sha1": "kWOonuPyRkUUmL8jmvqZ9fFhDP4=",
-        "Sha256": "c15954f48e6b30083a1b4ec5fa4f0a508988af756ef37affce4cdead13c8070d",
-        "version": "141.0.3493.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_141.0.3494.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/708da4fd-2187-4661-8dfc-fae464f75c0b?P1=1755610224&P2=404&P3=2&P4=jtgnhQ6xBWaiMdtWOG8Y5Dn3I4QbMSDOn%2b24xwvCuUBPbT7QPrjEuDRpXWpeHO6lshqKM80DHZHRxcI5ma6BOQ%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 186084408,
+        "Sha1": "a7GBVwIskaBXH2z6WIj6vMVFfBw=",
+        "Sha256": "3326139e632355e4a9a6bbc25fb314d5fd917689da411ed4824e48d7a7608163",
+        "version": "141.0.3494.0"
     },
     "msedge-canary-win-ARM64": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_141.0.3493.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/4571b630-e0c2-4d91-8c7b-14d96aebbfbc?P1=1755558813&P2=404&P3=2&P4=EdOFcVpggXbZU3SoIiU%2bWkxynPXCiIPi%2fbL4GWfojue11QaLWrapW0JLOXEhB1re9y5YyzyuuQX%2bZwASi%2fVcoQ%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 190909520,
-        "Sha1": "NLjNq5GNidn9sx5tGP+0wAb8Zyo=",
-        "Sha256": "c2fc183582ad045d64df43fc8bfc7974e67695d86de137d96aa3dbc176737dd5",
-        "version": "141.0.3493.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_ARM64_141.0.3494.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/cbfe3768-9b8c-45af-b0a4-2b566460dfdf?P1=1755610224&P2=404&P3=2&P4=B4Dh%2fh63ajWy6oYfZCSwfv9kIzLIo%2fE%2bAXjcJ8g%2bvSGIG6NyzPJCHsokbim7U5faWyCfaUWrB5owwayuOkLnVg%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 191121992,
+        "Sha1": "LXX+jZx4yH+atTarfCgDRrqC7Ms=",
+        "Sha256": "c037fd90a647fa7fbe4d39e62b2424156a244e71cb9cc42ec1d55c1fb9556044",
+        "version": "141.0.3494.0"
     }
 }
