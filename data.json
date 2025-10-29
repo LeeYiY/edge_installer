@@ -96,12 +96,12 @@
         "version": "143.0.3624.0"
     },
     "msedge-canary-win-x86": {
-        "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_143.0.3646.0.exe",
-        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/79ed41fb-9dfe-4cb0-b178-182dc98ae416?P1=1762297982&P2=404&P3=2&P4=GK5GunZca8LB2n5HKnbQXBPp9mHApGNhPRz5fRGvECrWnFOx6G4nS2VhoxzgJfHX2FYZrKIlFNkgO7gJKtShsw%3d%3d",
-        "\u5b57\u8282\u5927\u5c0f": 166170168,
-        "Sha1": "0E3YoomrQ6LWh3M2rCe0hQHWus8=",
-        "Sha256": "cd3ae53907459b5b0fefa2a09507d181ebc95dae87cc3b83b7099366482dc9cf",
-        "version": "143.0.3646.0"
+        "\u6587\u4ef6\u540d": "MicrosoftEdge_X86_143.0.3648.0.exe",
+        "\u4e0b\u8f7d\u94fe\u63a5": "https://msedge.sb.tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/90c82af4-2c12-4fc2-807a-52158c9cbb70?P1=1762345846&P2=404&P3=2&P4=dWR00cZlmvU94oNlU9eFh%2fnfGGaOIXon5VtrCUlGLqCKKvhCOIhm00bKRUVCttVEc5ScqN6ll21kK7%2bW2WHXhA%3d%3d",
+        "\u5b57\u8282\u5927\u5c0f": 166203448,
+        "Sha1": "wIyhMCMNgip+dv6/xhA2Qeyyf/o=",
+        "Sha256": "d7368567217a9fdffa3486a78d4cddc5501514863357463de6b49b895d0f7133",
+        "version": "143.0.3648.0"
     },
     "msedge-canary-win-x64": {
         "\u6587\u4ef6\u540d": "MicrosoftEdge_X64_143.0.3646.0.exe",
